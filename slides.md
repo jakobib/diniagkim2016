@@ -49,26 +49,14 @@ Dienst
 
 > Ein Probleme oder eine Frage, die mit Hilfe eines Normdatendienst gelöst werden kann.
 
+Erstes Formular:
+
 ------------------------- --------
 Name                      ...
 Ziel                      ...
 Aktionen                  ...
 Mockup, API-Funktionen... ...
 ------------------------- --------
-
-## Gruppen von Anwendungsfällen
-
-Allgemein
-
-* *Zugriff auf...*
-* *Suche nach...*
-* *Bearbeitung von...*
-* ...
-
-Konkret
-
-* *Häufigste Begriffe bei der Indexierung?*
-* ...
 
 ## Von Normdaten-Interfaces zu Normdaten-APIs
 
@@ -97,9 +85,11 @@ Konkret
 $\Longrightarrow$ **Antwort** (Objekte, Eigenschaften, Felder, ...)
 
 
-## Anwendungsfall für Normdaten-Interface
+## Anwendungsfall für Normdaten-API
 
 > Ein Probleme oder eine Frage, die mit Hilfe eines Normdatendienst gelöst werden kann.
+
+Zweites Formular:
 
 ---------------------------- ----------
 Name                         ...
@@ -111,31 +101,91 @@ Ziel                         ...
 
 # Weiterer Verlauf der Session
 
-## Erste Runde: Anwendungsfälle finden
+## Gruppenarbeit
 
-Jede(r) erstellt für sich Liste von Anwendungsfällen
+* Je etwa 6 Personen pro Gruppe
+* Mindestens eine Person mit pedantischer Uhr
+
+## Schritt 1: Anwendungsfälle finden
+
+JedeR erstellt für sich Liste von Anwendungsfällen.\
+Nur Namen der Anwendungsfälle, auf leerem Blatt!
 
 * *Abfrage von synonymen Benennungen zu einem Begriff*
 * *Passende Normdatei finden*
 * *Neuen Begriff vorschlagen*
 * ... 
 
-**5 Minuten Zeit**
+**5 Minuten Zeit!**
 
-## Zweite Runde
+## Gruppen von Anwendungsfällen
+
+Allgemein
+
+* *Zugriff auf...*
+* *Suche nach...*
+* *Bearbeitung von...*
+* ...
+
+Konkret
+
+* *Abfrage von synonymen Benennungen zu einem Begriff*
+* *Meistverwendete Begriffe bei der Indexierung finden*
+* ...
+
+
+## Schritt 2
 
 * Vorstellung der Listen in Kleingruppen (keine Diskussion!)
 * Einordnung: Interface / API / beides
 
-**5 Minuten Zeit**
+**1 Minuten pro Person!**
 
-## Dritte Runde
+## Schritt 3 & 4
 
-...
+* Bestandsaufname von unterschiedlichen Anwendungsfällen 
+  in der Gruppe und Aufteilung der Anwendungsfälle (Formulare)
+
+**5 Minuten Zeit!**
+
+* JedeR beschreibt genauer ein oder zwei Anwendungsfälle 
+  (allein oder maximal zu zweit)
+
+**5 Minuten Zeit!**
+
+## Schritt 5 & 6
+
+* Kurzvorstellung der Anwendungsfälle
+
+**1 Minuten pro Person!**
+
+* Gemeinsame Erarbeitung von API-Anwendungsfällen
+  in der Gruppe
+
+**~10 Minuten**
+
+## Letzter Schritt
+
+* Vorstellung der Anwendungsfälle der einzelnen Gruppen
+  (nur Typ, Name und Zweck/Ziel)
+
+**1-2 Minuten pro Gruppe**
+
+## Zusammenfassung
+
+0. Gruppen bilden
+1. Liste von Anwendungsfällen (nur Namen): 5 Minuten allein
+2. Kurzvorstellung in der Gruppe: 1 Minute pro Person 
+3. Bestandsaufnahme & Verteilung der Anwendungsfälle\
+   5 Minuten
+4. Genauere Beschreibung von 1-2 Anwendungsfällen pro Person: 5 Minuten allein
+5. Kurzvorstellung der Anwendungsfälle: je 1 Minute
+6. Gemeinsame Erarbeitung von API-Anwendungsfällen
+7. Kurzvorstellung API-Anwendungsfälle
 
 # Beispiele für Anwendungsfälle
 
-## Vorhandene Anwendungsfälle
+## Beispiele für Anwendungsfälle
 
 * Passende Normdatei finden
 * Begriff anzeigen
